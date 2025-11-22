@@ -1,4 +1,8 @@
 # learning-about-version-control
 Learning about Version Control
 
+<<<<<<< HEAD
 Solving merge conflicts is easy!
+=======
+Solving merge conflicts is soooooo hard!
+>>>>>>> f2ecf05 (commit)
